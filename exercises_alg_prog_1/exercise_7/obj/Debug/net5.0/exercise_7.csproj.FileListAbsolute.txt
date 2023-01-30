@@ -1,0 +1,16 @@
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.exe
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.deps.json
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.runtimeconfig.json
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.runtimeconfig.dev.json
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.dll
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\ref\exercise_7.dll
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\bin\Debug\net5.0\exercise_7.pdb
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.csproj.AssemblyReference.cache
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.AssemblyInfoInputs.cache
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.AssemblyInfo.cs
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.csproj.CoreCompileInputs.cache
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.dll
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\ref\exercise_7.dll
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.pdb
+C:\Users\Akme\Desktop\Exercises_Pro_Alg_1\exercise_7\obj\Debug\net5.0\exercise_7.genruntimeconfig.cache
