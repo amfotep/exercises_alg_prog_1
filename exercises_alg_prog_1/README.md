@@ -1,1 +1,3 @@
-# exercises_alg_prog_1
+# FIRST EXERCISES
+
+### Note: For that exercises it use .NET 5
